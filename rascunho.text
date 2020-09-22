@@ -1,0 +1,15 @@
+## Rascunho 1
+
+ - Não salvar ítens em branco a cada requisição (feito)
+ - Code smell: teste de POST é longo demais? (feito)
+ -  Exibir vários ítens da tabela
+ - Fazer uma limpeza após executar o FT
+ - Aceitar mais de uma lista! 
+
+
+## rascunho 2
+
+ - Ajustar o model opara que os itens sejam associados a listas distintas
+ - Adicionar URLS exclusivas para cada lista
+ - Adicionar uma URL para criar uma nova lista via POST
+ - Adicionar URLS para acrescentar um novo item em uma lista existente via POST
